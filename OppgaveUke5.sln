@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OppgaveUke5", "OppgaveUke5\OppgaveUke5.csproj", "{49EF3DE8-97C4-4380-AEBF-6AB919904490}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OppgaveUke5.Test", "OppgaveUke5.Test\OppgaveUke5.Test.csproj", "{32166A7A-C440-4204-A95F-F0CEA3BD94BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{49EF3DE8-97C4-4380-AEBF-6AB919904490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49EF3DE8-97C4-4380-AEBF-6AB919904490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49EF3DE8-97C4-4380-AEBF-6AB919904490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32166A7A-C440-4204-A95F-F0CEA3BD94BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32166A7A-C440-4204-A95F-F0CEA3BD94BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32166A7A-C440-4204-A95F-F0CEA3BD94BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32166A7A-C440-4204-A95F-F0CEA3BD94BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
